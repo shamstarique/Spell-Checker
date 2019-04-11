@@ -2,7 +2,357 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="434c611e-3a94-404a-a11e-3274999d10a0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/spellchecker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/american-abbreviations.70" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/american-abbreviations.95" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/american-proper-names.80" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/american-proper-names.95" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/american-upper.50" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/american-upper.60" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/american-upper.70" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/american-upper.80" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/american-upper.95" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/american-words.10" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/american-words.20" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/american-words.35" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/american-words.40" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/american-words.50" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/american-words.55" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/american-words.60" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/american-words.70" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/american-words.80" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/american-words.95" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/australian-abbreviations.35" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/australian-abbreviations.55" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/australian-abbreviations.70" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/australian-abbreviations.80" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/australian-abbreviations.95" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/australian-contractions.35" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/australian-proper-names.35" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/australian-proper-names.80" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/australian-proper-names.95" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/australian-upper.50" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/australian-upper.60" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/australian-upper.70" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/australian-upper.80" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/australian-upper.95" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/australian-words.10" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/australian-words.20" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/australian-words.35" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/australian-words.40" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/australian-words.50" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/australian-words.55" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/australian-words.60" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/australian-words.70" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/australian-words.80" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/australian-words.95" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/australian_variant_1-abbreviations.55" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/australian_variant_1-abbreviations.95" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/australian_variant_1-contractions.35" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/australian_variant_1-contractions.50" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/australian_variant_1-contractions.60" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/australian_variant_1-proper-names.80" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/australian_variant_1-proper-names.95" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/australian_variant_1-upper.35" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/australian_variant_1-upper.40" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/australian_variant_1-upper.50" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/australian_variant_1-upper.60" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/australian_variant_1-upper.70" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/australian_variant_1-upper.80" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/australian_variant_1-upper.95" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/australian_variant_1-words.10" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/australian_variant_1-words.20" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/australian_variant_1-words.35" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/australian_variant_1-words.40" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/australian_variant_1-words.50" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/australian_variant_1-words.55" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/australian_variant_1-words.60" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/australian_variant_1-words.70" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/australian_variant_1-words.80" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/australian_variant_1-words.95" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/australian_variant_2-abbreviations.70" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/australian_variant_2-abbreviations.80" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/australian_variant_2-abbreviations.95" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/australian_variant_2-contractions.50" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/australian_variant_2-contractions.70" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/australian_variant_2-proper-names.95" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/australian_variant_2-upper.35" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/australian_variant_2-upper.40" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/australian_variant_2-upper.50" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/australian_variant_2-upper.60" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/australian_variant_2-upper.70" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/australian_variant_2-upper.80" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/australian_variant_2-upper.95" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/australian_variant_2-words.10" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/australian_variant_2-words.20" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/australian_variant_2-words.35" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/australian_variant_2-words.40" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/australian_variant_2-words.50" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/australian_variant_2-words.55" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/australian_variant_2-words.60" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/australian_variant_2-words.70" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/australian_variant_2-words.80" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/australian_variant_2-words.95" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british-abbreviations.35" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british-abbreviations.55" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british-abbreviations.70" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british-abbreviations.80" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british-abbreviations.95" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british-proper-names.80" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british-proper-names.95" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british-upper.50" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british-upper.60" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british-upper.70" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british-upper.80" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british-upper.95" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british-words.10" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british-words.20" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british-words.35" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british-words.40" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british-words.50" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british-words.55" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british-words.60" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british-words.70" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british-words.95" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british_variant_1-abbreviations.55" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british_variant_1-contractions.35" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british_variant_1-contractions.50" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british_variant_1-contractions.60" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british_variant_1-upper.35" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british_variant_1-upper.40" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british_variant_1-upper.50" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british_variant_1-upper.60" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british_variant_1-upper.70" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british_variant_1-upper.80" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british_variant_1-upper.95" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british_variant_1-words.10" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british_variant_1-words.20" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british_variant_1-words.35" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british_variant_1-words.40" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british_variant_1-words.50" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british_variant_1-words.55" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british_variant_1-words.60" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british_variant_1-words.70" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british_variant_1-words.80" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british_variant_1-words.95" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british_variant_2-abbreviations.70" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british_variant_2-abbreviations.80" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british_variant_2-abbreviations.95" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british_variant_2-contractions.50" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british_variant_2-contractions.70" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british_variant_2-upper.35" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british_variant_2-upper.40" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british_variant_2-upper.50" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british_variant_2-upper.60" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british_variant_2-upper.70" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british_variant_2-upper.80" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british_variant_2-upper.95" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british_variant_2-words.10" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british_variant_2-words.20" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british_variant_2-words.35" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british_variant_2-words.40" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british_variant_2-words.50" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british_variant_2-words.55" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british_variant_2-words.60" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british_variant_2-words.70" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british_variant_2-words.80" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british_variant_2-words.95" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british_z-abbreviations.35" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british_z-abbreviations.55" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british_z-abbreviations.70" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british_z-abbreviations.80" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british_z-abbreviations.95" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british_z-proper-names.80" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british_z-proper-names.95" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british_z-upper.50" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british_z-upper.60" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british_z-upper.70" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british_z-upper.80" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british_z-upper.95" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british_z-words.10" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british_z-words.20" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british_z-words.35" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british_z-words.40" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british_z-words.50" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british_z-words.55" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british_z-words.60" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british_z-words.70" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british_z-words.80" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/british_z-words.95" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canadian-abbreviations.55" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canadian-abbreviations.70" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canadian-abbreviations.80" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canadian-abbreviations.95" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canadian-proper-names.80" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canadian-proper-names.95" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canadian-upper.50" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canadian-upper.60" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canadian-upper.70" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canadian-upper.80" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canadian-upper.95" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canadian-words.10" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canadian-words.20" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canadian-words.35" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canadian-words.40" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canadian-words.50" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canadian-words.55" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canadian-words.60" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canadian-words.70" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canadian-words.80" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canadian-words.95" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canadian_variant_1-abbreviations.55" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canadian_variant_1-contractions.35" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canadian_variant_1-contractions.50" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canadian_variant_1-contractions.60" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canadian_variant_1-proper-names.95" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canadian_variant_1-upper.35" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canadian_variant_1-upper.40" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canadian_variant_1-upper.50" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canadian_variant_1-upper.60" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canadian_variant_1-upper.70" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canadian_variant_1-upper.80" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canadian_variant_1-upper.95" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canadian_variant_1-words.10" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canadian_variant_1-words.20" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canadian_variant_1-words.35" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canadian_variant_1-words.40" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canadian_variant_1-words.50" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canadian_variant_1-words.55" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canadian_variant_1-words.60" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canadian_variant_1-words.70" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canadian_variant_1-words.80" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canadian_variant_1-words.95" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canadian_variant_2-abbreviations.70" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canadian_variant_2-abbreviations.80" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canadian_variant_2-abbreviations.95" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canadian_variant_2-contractions.50" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canadian_variant_2-contractions.70" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canadian_variant_2-upper.35" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canadian_variant_2-upper.40" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canadian_variant_2-upper.50" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canadian_variant_2-upper.60" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canadian_variant_2-upper.70" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canadian_variant_2-upper.80" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canadian_variant_2-upper.95" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canadian_variant_2-words.10" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canadian_variant_2-words.20" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canadian_variant_2-words.35" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canadian_variant_2-words.40" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canadian_variant_2-words.50" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canadian_variant_2-words.55" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canadian_variant_2-words.60" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canadian_variant_2-words.70" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canadian_variant_2-words.80" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canadian_variant_2-words.95" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/compile_dictionaries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/english-abbreviations.10" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/english-abbreviations.20" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/english-abbreviations.35" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/english-abbreviations.40" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/english-abbreviations.50" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/english-abbreviations.55" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/english-abbreviations.60" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/english-abbreviations.70" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/english-abbreviations.80" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/english-abbreviations.95" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/english-contractions.10" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/english-contractions.35" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/english-contractions.40" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/english-contractions.50" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/english-contractions.60" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/english-contractions.70" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/english-contractions.80" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/english-contractions.95" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/english-proper-names.35" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/english-proper-names.40" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/english-proper-names.60" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/english-proper-names.70" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/english-upper.10" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/english-upper.35" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/english-upper.40" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/english-upper.60" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/english-upper.70" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/english-upper.95" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/english-words.10" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/our_dictionary.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/special-hacker.50" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/special-roman-numerals.35" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variant_1-abbreviations.55" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variant_1-abbreviations.95" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variant_1-contractions.35" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variant_1-contractions.50" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variant_1-contractions.60" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variant_1-proper-names.80" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variant_1-proper-names.95" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variant_1-upper.35" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variant_1-upper.40" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variant_1-upper.50" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variant_1-upper.60" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variant_1-upper.70" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variant_1-upper.80" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variant_1-upper.95" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variant_1-words.10" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variant_1-words.20" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variant_1-words.35" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variant_1-words.40" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variant_1-words.50" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variant_1-words.55" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variant_1-words.60" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variant_1-words.70" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variant_1-words.80" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variant_1-words.95" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variant_2-abbreviations.70" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variant_2-abbreviations.80" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variant_2-abbreviations.95" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variant_2-contractions.50" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variant_2-contractions.70" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variant_2-upper.35" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variant_2-upper.40" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variant_2-upper.50" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variant_2-upper.60" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variant_2-upper.70" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variant_2-upper.80" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variant_2-upper.95" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variant_2-words.10" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variant_2-words.20" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variant_2-words.35" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variant_2-words.40" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variant_2-words.50" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variant_2-words.55" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variant_2-words.60" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variant_2-words.70" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variant_2-words.80" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variant_2-words.95" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variant_3-abbreviations.40" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variant_3-abbreviations.95" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variant_3-words.10" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variant_3-words.20" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variant_3-words.35" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variant_3-words.40" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variant_3-words.50" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variant_3-words.55" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variant_3-words.60" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variant_3-words.70" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variant_3-words.80" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variant_3-words.95" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/filenames.txt" beforeDir="false" afterPath="$PROJECT_DIR$/filenames.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spellchecker.py" beforeDir="false" afterPath="$PROJECT_DIR$/spellchecker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,11 +362,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/spellchecker.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="132">
+              <caret line="91" column="31" lean-forward="true" selection-start-line="91" selection-start-column="31" selection-end-line="91" selection-end-column="31" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -24,24 +374,19 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/our_dictionary.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="3" lean-forward="true" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
+            <state relative-caret-position="332">
+              <caret line="676467" column="7" selection-start-line="676467" selection-start-column="7" selection-end-line="676467" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/filenames.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mobydickending.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
+            <state relative-caret-position="131">
               <caret line="12" column="52" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
             </state>
           </provider>
@@ -50,8 +395,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mobydick.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="8" selection-start-column="8" selection-end-column="8" />
+            <state relative-caret-position="131">
+              <caret line="1314" column="35" selection-start-line="1314" selection-start-column="33" selection-end-line="1314" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/compile_dictionaries.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="367">
+              <caret line="29" column="1" lean-forward="true" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -72,6 +429,19 @@
       <find>&quot;</find>
       <find>&quot;O</find>
       <find>timeit</find>
+      <find>'s</find>
+      <find>(that</find>
+      <find>'The</find>
+      <find>days'</find>
+      <find>renssel</find>
+      <find>but</find>
+      <find>Aff</find>
+      <find>'the</find>
+      <find>\norly\n</find>
+      <find>fayest</find>
+      <find>3d</find>
+      <find>aff</find>
+      <find>.lower</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -82,18 +452,11 @@
       <list>
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
         <option value="$PROJECT_DIR$/mobydickending.txt" />
-        <option value="$PROJECT_DIR$/spellchecker.py" />
+        <option value="$PROJECT_DIR$/filenames.txt" />
         <option value="$PROJECT_DIR$/test.py" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/Spell-Checker.iml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/our_dictionary.txt" />
+        <option value="$PROJECT_DIR$/compile_dictionaries.py" />
+        <option value="$PROJECT_DIR$/spellchecker.py" />
       </list>
     </option>
   </component>
@@ -128,6 +491,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/spellchecker.py" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -145,7 +509,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="compile_dictionaries" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Spell-Checker" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -157,7 +521,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/spellchecker.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -184,18 +548,18 @@
     <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18151815" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18151815" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.36581922" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36581922" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32881355" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32768363" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32768363" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32881355" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -205,37 +569,51 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+    <entry file="file://$PROJECT_DIR$/filenames.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="345" column="18" selection-start-line="345" selection-start-column="18" selection-end-line="345" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/compile_dictionaries.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="29" column="1" lean-forward="true" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/mobydickending.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
+        <state relative-caret-position="131">
           <caret line="12" column="52" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mobydick.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="8" />
+        <state relative-caret-position="131">
+          <caret line="1314" column="35" selection-start-line="1314" selection-start-column="33" selection-end-line="1314" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/filenames.txt">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/our_dictionary.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="676467" column="7" selection-start-line="676467" selection-start-column="7" selection-end-line="676467" selection-end-column="7" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spellchecker.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="132">
+          <caret line="91" column="31" lean-forward="true" selection-start-line="91" selection-start-column="31" selection-end-line="91" selection-end-column="31" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="3" lean-forward="true" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
         </state>
       </provider>
     </entry>
