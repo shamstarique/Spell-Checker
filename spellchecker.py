@@ -93,14 +93,16 @@ for word in misspelled_words_list:
             print(word2, end='')
             print(", ", end='')
             suggested_words +=1
-        if suggested_words < 3 :
-            word_2_edit_dist_away = edit_dist_1(word2)
-            for word3 in word_2_edit_dist_away:
-                if word3 in dictionary:
-                    if suggested_words >= 3:
-                        break
-                    print(word3, end='')
-                    print(", ", end='')
+    if suggested_words < 3:
+        word_2_edit_dist_away = {'',''}
+        for word4 in word_1_edit_dist_away:
+            word_2_edit_dist_away.union(edit_dist_1(word4))
+        for word3 in word_2_edit_dist_away:
+            if word3 in dictionary:
+                if suggested_words >= 3:
+                    break
+                print(word3, end='')
+                print(", ", end='')
 
 
 
